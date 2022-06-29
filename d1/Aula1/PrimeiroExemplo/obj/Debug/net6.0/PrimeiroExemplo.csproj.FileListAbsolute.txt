@@ -1,0 +1,15 @@
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.exe
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.deps.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.runtimeconfig.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\net6.0\PrimeiroExemplo.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.csproj.AssemblyReference.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.AssemblyInfoInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.AssemblyInfo.cs
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\refint\PrimeiroExemplo.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\PrimeiroExemplo.genruntimeconfig.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\net6.0\ref\PrimeiroExemplo.dll
