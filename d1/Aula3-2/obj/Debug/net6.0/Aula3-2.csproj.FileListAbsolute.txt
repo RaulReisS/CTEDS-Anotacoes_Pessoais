@@ -1,0 +1,15 @@
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.csproj.AssemblyReference.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.AssemblyInfoInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.AssemblyInfo.cs
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.csproj.CoreCompileInputs.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\bin\Debug\net6.0\Aula3-2.exe
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\bin\Debug\net6.0\Aula3-2.deps.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\bin\Debug\net6.0\Aula3-2.runtimeconfig.json
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\bin\Debug\net6.0\Aula3-2.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\bin\Debug\net6.0\Aula3-2.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\refint\Aula3-2.dll
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.pdb
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\Aula3-2.genruntimeconfig.cache
+C:\Users\soare\OneDrive\Ambiente de Trabalho\CETEDS\D1\Aula3-2\obj\Debug\net6.0\ref\Aula3-2.dll
